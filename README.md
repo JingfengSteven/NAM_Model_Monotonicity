@@ -1,3 +1,4 @@
 # NAM_Model_Monotonicity
-this two python notebooks are training metric for "give me some credit" dataset on satisfying 3-pair strong monotonicty and single monotonicity.
-The notebook can all be run in colab environment.
+These two python notebooks are training metrics for the "give me some credit" dataset on satisfying 3-pair strong monotonicity and single monotonicity.
+The notebook can all be run in Colab environment.
+The AUC of Pair+single and "only single" all can reach 85%.
